@@ -1,0 +1,6 @@
+{
+	"baseCost": 1,
+	"cacheMissPenalty": 15,
+	"branchMispredictionPenalty": 8,
+	"deadline": 100
+}
